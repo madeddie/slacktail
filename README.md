@@ -1,4 +1,4 @@
-# slacktail (.py)
+# slacktail.py
 
 Slacktail is a simple Python script that tails a Slack channel and prints new messages to the console.
 
